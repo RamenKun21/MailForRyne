@@ -20,10 +20,10 @@ const noMessages = [
 ]
 
 const yesTeasePokes = [
-    "Pinduton mo pa gd nang no, you like me mn 🙄",
-    "PINDUTA LIWAT 🙄",
-    "Gi liwat mn gd 😒",
-    "ERKEY!! Di mo mn ko madakpan 😝"
+    "TRY DAW ANG NO 🤭",
+    "Gusto gd ko ba 🤭",
+    "You'll never know if you don't no 👀",
+    "Huey alam ko mn na gusto mo 'ko pero sayang effort ko sa no button bala 🤭"
 ]
 
 let yesTeasedCount = 0
