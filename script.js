@@ -13,10 +13,10 @@ const noMessages = [
     "No",
     "Pag Sure Ba 🤔",
     "Please Mi Amor... 🥺",
-    "Pwease??? 💔",
-    "Don't do this to me... 😔",
+    "Pwease??? Napo 🙏💔",
+    "I wanna make a future with you though... 😔",
     "Mag cry na gd koo! 😭",
-    "You can't catch me anyway 😜"
+    "ERKEY!! Can't catch me anyway 😝"
 ]
 
 const yesTeasePokes = [
