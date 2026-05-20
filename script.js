@@ -3,9 +3,9 @@ const gifStages = [
     "https://media1.tenor.com/m/ZsGv52SY0OAAAAAC/zuh-cat.gif",  // 1 confused
     "https://media1.tenor.com/m/YWRLnlD8TxIAAAAC/cat-please.gif",             // 2 pleading
     "https://media1.tenor.com/m/67hJkk5s-H4AAAAC/crying-crying-cat.gif",             // 3 sad
-    "https://media1.tenor.com/m/0QkZnCmGFX0AAAAC/banana-cat-banana-cat-crying.gif",       // 4 sadder
-    "https://media1.tenor.com/m/I6WG5aQzlWcAAAAC/very-sad-cat-sad-cat.gif",             // 5 devastated
-    "https://media1.tenor.com/m/YYtWpKR5-qEAAAAd/fat-cat-vanished.gif",               // 6 very devastated
+    "https://media1.tenor.com/m/I6WG5aQzlWcAAAAC/very-sad-cat-sad-cat.gif",       // 4 sadder
+    "https://media1.tenor.com/m/0QkZnCmGFX0AAAAC/banana-cat-banana-cat-crying.gif",             // 5 devastated
+    "https://media1.tenor.com/m/oObwAjW2IIoAAAAd/cat-cute-cat.gif",               // 6 very devastated
     "https://media1.tenor.com/m/oObwAjW2IIoAAAAd/cat-cute-cat.gif"  // 7 crying runaway
 ]
 
